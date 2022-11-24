@@ -129,7 +129,7 @@
 	<properties>
 		<spring.version>4.2.1.RELEASE</spring.version>
 		<jdk.version>1.7</jdk.version>
-		<hibernate.version>3.6.9.Final</hibernate.version>
+		<hibernate.version>5.3.20.Final</hibernate.version>
 		<spring.security.version>4.0.1.RELEASE</spring.security.version>
 		<quartz.version>2.2.1</quartz.version>
 
